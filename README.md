@@ -1,6 +1,8 @@
-# New Project
+# Gif Act
+A simple web application built with React and ffmpeg.
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
+---
 
 ## Available Scripts
 
